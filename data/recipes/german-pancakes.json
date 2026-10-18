@@ -1,0 +1,29 @@
+{
+  "src": "01M588AVANZWQPZGZV2X8Q6EFZ",
+  "slug": "german-pancakes",
+  "title": "German Pancakes",
+  "category": "Breakfast",
+  "intro": "Here’s the recipe that I made, but I’m sure everyone has fabulous recipes for German pancakes 😊",
+  "ingredients": [
+    "6 eggs",
+    "1 C milk",
+    "1 C flour",
+    "1 tsp sugar",
+    "1 tsp vanilla",
+    "Pinch of salt",
+    "## To cook and serve",
+    "2 tablespoons melted butter",
+    "Strawberries",
+    "Powdered sugar",
+    "Maple syrup or buttermilk syrup, and melted butter"
+  ],
+  "steps": [
+    "Preheat the oven to 400 degrees",
+    "Mix the ingredients with a mixer until smooth",
+    "In a 10-inch cast-iron skillet (or a stone/non-stick pan), heat 2 tablespoons melted butter over high heat until foamy. Add (all) the batter and immediately put the skillet in the oven. Bake until the pancake is golden brown in color and puffed up, about 20 minutes.",
+    "Remove from the oven, add the strawberries in the center of the German pancake and dust with powdered sugar. Serve with maple syrup or buttermilk syrup, and melted butter"
+  ],
+  "pdf": "pdfs/german-pancakes.pdf",
+  "image": "assets/img/german-pancakes.jpg",
+  "order": 37
+}

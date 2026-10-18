@@ -1,0 +1,29 @@
+{
+  "src": "01M588654SNK4WW8PSSD0NMNQB",
+  "slug": "lobster-with-lemon-butter-garlic",
+  "title": "Lobster with Lemon Butter Garlic",
+  "category": "Entree",
+  "servings": "Serves 3",
+  "time": "Prep: 5 minutes, Cook: 5 minutes (sauce)",
+  "ingredients": [
+    "## Lemon Garlic Butter for Lobster Tails:",
+    "1/2 cup butter",
+    "1/4 cup lemon juice",
+    "1/4 cup chopped fresh herbs (such as parsley, rosemary, thyme and basil)",
+    "2 cloves garlic, chopped",
+    "3 lobster tails",
+    "## For broiling:",
+    "Butter, paprika, salt, and pepper (equal amounts)",
+    "Lemon wedges, to serve"
+  ],
+  "steps": [
+    "Preheat the broiler.",
+    "Place lobster tails on a baking sheet. With a sharp knife or kitchen shears, cut from neck to tail the back of the lobster.",
+    "Slightly pull apart shell and raise and season meat with equal amounts butter, paprika, salt, and pepper. Broil lobster tails until lightly browned and lobster meat is opaque, about 7 minutes. Garnish with lemon wedges to serve.",
+    "## Lemon Garlic Butter:",
+    "Combine butter, lemon juice, herbs and garlic in a small saucepan. Simmer over very low heat for 5 minutes. Serve with hot lobster tails."
+  ],
+  "pdf": "pdfs/lobster-with-lemon-butter-garlic.pdf",
+  "image": "assets/img/lobster-with-lemon-butter-garlic.jpg",
+  "order": 10
+}

@@ -1,0 +1,24 @@
+{
+  "src": "01M588AV1CZ34F83VH6FF7M4ME",
+  "slug": "baked-cottage-cheese-eggs",
+  "title": "Baked Cottage Cheese Eggs",
+  "category": "Breakfast",
+  "ingredients": [
+    "1 cup low-fat cottage cheese",
+    "4 large eggs",
+    "1/4 cup chopped fresh chives",
+    "1/4 teaspoon salt",
+    "1/4 teaspoon black pepper",
+    "Cooking spray"
+  ],
+  "steps": [
+    "Preheat your oven to 350°F (175°C). Lightly coat a baking dish with cooking spray.",
+    "In a mixing bowl, combine the cottage cheese, eggs, chopped chives, salt, and black pepper. Mix well until all ingredients are evenly incorporated.",
+    "Pour the mixture into the prepared baking dish, spreading it out evenly.",
+    "Bake in the preheated oven for 25-30 minutes, or until the eggs are set and the edges are golden brown.",
+    "Once done, remove from the oven and let it cool for a few minutes before serving."
+  ],
+  "pdf": "pdfs/baked-cottage-cheese-eggs.pdf",
+  "image": "assets/img/baked-cottage-cheese-eggs.jpg",
+  "order": 36
+}

@@ -1,0 +1,30 @@
+{
+  "src": "01M588670CMZ40F2ACAN6E30ME",
+  "slug": "5-ingredient-meatloaf",
+  "title": "5-Ingredient Meatloaf (No Breadcrumbs)",
+  "category": "Entree",
+  "intro": "This is such an easy recipe, and so quick to prepare. And with no breadcrumbs for those of you who are GMO intolerant makes this recipe a go to on most everyone's list.",
+  "ingredients": [
+    "16 oz 80% Lean Ground Beef",
+    "1 cup Parmesan Cheese, finely grated.",
+    "½ cup Onion, diced",
+    "1 Large Egg",
+    "⅓ cup Ketchup ⅓ BBQ sauce for spreading on top of loaf",
+    "½ teaspoon Salt",
+    "½ teaspoon Ground Pepper"
+  ],
+  "steps": [
+    "Preheat oven to 400 degrees F. Coat a loaf pan with olive oil",
+    "Finely dice the Onion",
+    "Mix all ingredients (except the ⅓ cup Ketchup ⅓ BBQ sauce reserved for the top) together in a large bowl with a fork or with hands: beef, parmesan cheese, onion, egg, salt, pepper.",
+    "Form a loaf in the loaf pan. Spread the Ketchup/BBQ sauce over the top of the meatloaf. Bake in the oven for 45 minutes.",
+    "[unclear — the last step is cut off by the website footer in the original PDF]"
+  ],
+  "notes": [
+    "The final instruction step is hidden behind the website footer in the PDF."
+  ],
+  "unclear": true,
+  "pdf": "pdfs/5-ingredient-meatloaf.pdf",
+  "image": "assets/img/5-ingredient-meatloaf.jpg",
+  "order": 15
+}

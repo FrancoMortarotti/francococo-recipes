@@ -1,0 +1,30 @@
+{
+  "src": "01M588ANJ9SMYTKQZB1FVVDHFK",
+  "slug": "la-scala-chopped-salad",
+  "title": "La Scala Chopped Salad",
+  "category": "Salads",
+  "intro": "One of my favorite salads from my childhood growing up in Beverly Hills, from the world renowned La Scala Boutique.",
+  "ingredients": [
+    "## Dressing",
+    "⅓ cup extra virgin olive oil",
+    "3 tablespoons red wine vinegar",
+    "2 cloves garlic minced",
+    "3 teaspoons Dijon mustard",
+    "½ teaspoon salt and pepper",
+    "⅓ cup grated Parmigiano-Reggiano cheese",
+    "## Salad",
+    "1 head shredded iceberg lettuce (5-6 cups)",
+    "1 head shredded romaine lettuce (4-5 cups)",
+    "1 (15-ounce) can chickpeas drained and rinsed",
+    "¼ lb ((4 ounces) Italian salami thinly sliced",
+    "2 cups shredded mozzarella cheese"
+  ],
+  "steps": [],
+  "notes": [
+    "The original page lists only the ingredients — there are no directions in the PDF."
+  ],
+  "unclear": true,
+  "pdf": "pdfs/la-scala-chopped-salad.pdf",
+  "image": "assets/img/la-scala-chopped-salad.jpg",
+  "order": 23
+}

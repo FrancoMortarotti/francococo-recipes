@@ -1,0 +1,29 @@
+{
+  "src": "01M58863JMF47K1XW5AX8AHWK7",
+  "slug": "healthy-chicken-piccata",
+  "title": "Healthy Chicken Piccata",
+  "category": "Entree",
+  "ingredients": [
+    "2 large chicken breasts (pounded flat)",
+    "1 teaspoon salt",
+    "1/2 teaspoon pepper",
+    "2 tablespoons all-purpose flour",
+    "3/4 cup butter",
+    "1/4 cup olive oil",
+    "4 cloves garlic minced",
+    "2/3 cup white wine",
+    "1 tablespoon capers",
+    "2 tablespoons lemon juice"
+  ],
+  "steps": [
+    "Slice chicken breasts in half to leave you with four cutlets. Pound them flat to get them even thickness.",
+    "Season the chicken with salt and pepper on both sides.",
+    "Place flour on a plate and lightly coat the chicken in it, shaking off any excess.",
+    "Heat oil and 2 tbsp of butter in a pan over medium-high heat until the butter melts. Working in batches, cook the chicken until nicely browned on both sides. Don't overcook, as they will continue to cook in the final process when simmering. Once the chicken is brown and lightly cooked, set it aside.",
+    "Add garlic to the pan and sauté for 20 seconds, then add white wine and simmer. Add capers, lemon juice, salt, and pepper, and cook for a couple of minutes.",
+    "Add the rest of the butter and swirl well, until the butter melts, return the chicken inside and simmer for several more minutes. Remove from the heat and serve with some fresh parsley."
+  ],
+  "pdf": "pdfs/healthy-chicken-piccata.pdf",
+  "image": "assets/img/healthy-chicken-piccata.jpg",
+  "order": 4
+}

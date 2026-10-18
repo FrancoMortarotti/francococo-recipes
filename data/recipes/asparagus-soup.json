@@ -1,0 +1,27 @@
+{
+  "src": "01M588AQM04X688FAPA3TX0Y6W",
+  "slug": "asparagus-soup",
+  "title": "Asparagus Soup",
+  "category": "Soup",
+  "servings": "4-6",
+  "ingredients": [
+    "2 bunches asparagus (about 2-1/4 pounds), bottom ends trimmed",
+    "6 tablespoons unsalted butter",
+    "2 medium yellow onions, chopped",
+    "4 cloves garlic, peeled and smashed",
+    "[unclear — the rest of the ingredient list is hidden behind the website footer in the original PDF]"
+  ],
+  "steps": [
+    "Begin by melting the butter in a large pot. Add the onions and garlic. Cook until soft and translucent, about 8 minutes.",
+    "While that’s going, prep the asparagus. Trim off the tips (you’ll use them for a garnish), then cut the remaining spears into 1/2-inch pieces. Add the chopped asparagus to the pot, along with the chicken broth, salt, and pepper. Bring to a boil. Cover and simmer for about 30 minutes until the vegetables are very tender.",
+    "Purée the soup with a hand-held immersion blender until smooth and creamy. Alternatively, you can blend the soup in batches in a blender. Return the soup to the pot and stir in the fresh lemon juice, grated Parmesan cheese, and Heavy Whipped Cream.",
+    "Finally, ladle the soup into bowls and top with the asparagus tips, Parmesan cheese, fresh herbs (if using), and freshly ground black pepper."
+  ],
+  "notes": [
+    "The ingredient list is cut off after the garlic in the PDF. The steps also call for chicken broth, salt, pepper, lemon juice, Parmesan, heavy cream and optional fresh herbs, but those amounts aren't visible."
+  ],
+  "unclear": true,
+  "pdf": "pdfs/asparagus-soup.pdf",
+  "image": "assets/img/asparagus-soup.jpg",
+  "order": 24
+}

@@ -1,0 +1,28 @@
+{
+  "src": "01M588ANHKFTDYN4HF4M019GEV",
+  "slug": "caesar-salad-dressing",
+  "title": "Caesar Salad Dressing",
+  "category": "Salads",
+  "ingredients": [
+    "6 cloves garlic, peeled, divided",
+    "3/4 cup mayonnaise",
+    "5 anchovy fillets, minced",
+    "6 tablespoons grated Parmesan cheese, divided",
+    "1 teaspoon Worcestershire sauce",
+    "1 teaspoon Dijon mustard",
+    "1 tablespoon lemon juice, or more to taste",
+    "salt to taste",
+    "ground black pepper to taste",
+    "1/4 cup olive oil",
+    "4 cups day-old bread, cubed",
+    "1 head romaine lettuce, torn into bite-size pieces"
+  ],
+  "steps": [],
+  "notes": [
+    "The original page lists only the ingredients — there are no directions in the PDF. (The page title is spelled \"Ceasars Salad Dressing\".)"
+  ],
+  "unclear": true,
+  "pdf": "pdfs/caesar-salad-dressing.pdf",
+  "image": "assets/img/caesar-salad-dressing.jpg",
+  "order": 21
+}
