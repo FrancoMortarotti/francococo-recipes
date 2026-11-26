@@ -18,12 +18,9 @@
     "Finely dice the Onion",
     "Mix all ingredients (except the ⅓ cup Ketchup ⅓ BBQ sauce reserved for the top) together in a large bowl with a fork or with hands: beef, parmesan cheese, onion, egg, salt, pepper.",
     "Form a loaf in the loaf pan. Spread the Ketchup/BBQ sauce over the top of the meatloaf. Bake in the oven for 45 minutes.",
-    "[unclear — the last step is cut off by the website footer in the original PDF]"
+    "Remove from the oven and let sit for 5 minutes. Remove from the pan, cut and serve with roast or mashed potatoes or salad. Enjoy!"
   ],
-  "notes": [
-    "The final instruction step is hidden behind the website footer in the PDF."
-  ],
-  "unclear": true,
+  "notes": [],
   "pdf": "pdfs/5-ingredient-meatloaf.pdf",
   "image": "assets/img/5-ingredient-meatloaf.jpg",
   "order": 15

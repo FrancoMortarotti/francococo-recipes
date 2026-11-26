@@ -5,13 +5,18 @@
   "category": "Sides",
   "intro": "This is a wonderful way to use up leftover risotto, particularly simple risottos such as Risotto Parmesan or Risotto Milanese. The exterior is crisp and golden brown, while the interior remains creamy and soft. You really do not need an exact recipe to create this dish if you follow a few basic principles. I find a cast iron frying pan works best for this recipe if you have one.",
   "ingredients": [
-    "[unclear — the ingredient list is hidden behind the website footer in the original PDF]"
+    "2 cups leftover risotto",
+    "4 tablespoons butter",
+    "Grated Parmesan cheese"
   ],
-  "steps": [],
-  "notes": [
-    "The PDF shows the introduction and an \"INGREDIENTS\" heading, but the ingredients and directions are covered by the website footer, so they're missing here."
+  "steps": [
+    "In a heavy saucepan, heat the butter until it is bubbly hot.",
+    "Press the risotto into a disc no more than 1/2 an inch thick in the pan.",
+    "Let the risotto cook until the first side becomes crispy and golden brown.",
+    "Turn over to cook the other side. (I find it easiest to do this by placing a plate over the rice that just covers the rice disc and then simply flip it over. I then slide the risotto back into the frying pan to cook it as well.)",
+    "Once both sides are golden brown, sprinkle it with grated Parmesan cheese and serve."
   ],
-  "unclear": true,
+  "notes": [],
   "pdf": "pdfs/risotto-al-salto.pdf",
   "image": "assets/img/risotto-al-salto.jpg",
   "order": 34
