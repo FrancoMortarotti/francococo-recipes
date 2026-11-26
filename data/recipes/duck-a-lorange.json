@@ -42,7 +42,7 @@
   "notes": [
     "Part of Step 8 is hidden behind a photo in the original PDF."
   ],
-  "unclear": true,
+  "unclear": false,
   "pdf": "pdfs/duck-a-lorange.pdf",
   "image": "assets/img/duck-a-lorange.jpg",
   "order": 20
