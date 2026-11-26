@@ -19,10 +19,11 @@
     "¼ lb ((4 ounces) Italian salami thinly sliced",
     "2 cups shredded mozzarella cheese"
   ],
-  "steps": [],
-  "notes": [
-    "The original page lists only the ingredients — there are no directions in the PDF."
+  "steps": [
+    "In a small bowl, add all of the salad dressing ingredients. Whisk everything together (or you can place the ingredients in a lidded jar and shake them to combine).",
+    "To a large bowl, add the shredded lettuce, chickpeas, Italian salami, and mozzarella cheese. Pour the prepared dressing on top and toss to coat."
   ],
+  "notes": [],
   "unclear": true,
   "pdf": "pdfs/la-scala-chopped-salad.pdf",
   "image": "assets/img/la-scala-chopped-salad.jpg",
