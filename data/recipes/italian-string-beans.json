@@ -5,6 +5,7 @@
   "category": "Sides",
   "intro": "“While visiting a dear Italian friend in San Francisco, he prepared the most incredible string beans I’ve ever tasted. One bite and I knew this recipe was too good to keep to myself—I begged him for the details and promised to share it with all of you. Simple, vibrant, and bursting with authentic Italian flavor, this is now a staple in our house. Enjoy!”",
   "ingredients": [
+    "One pound string beans, trimmed.",
     "Two tablespoons olive oil.",
     "One large onion sliced thin.",
     "Three cloves garlic minced.",
@@ -13,14 +14,15 @@
     "Half teaspoon black pepper."
   ],
   "steps": [
+    "Blanch the string beans in a pot of boiling salted water for three to four minutes, then plunge them into ice water to chill and drain well.",
     "Start by heating two tablespoons olive oil in a pan over medium.",
     "Toss in one large onion, sliced thin-brown ’em for eight to ten minutes till they're golden.",
     "Add three minced garlic cloves, stir one minute so they don't burn.",
+    "Add the blanched string beans to the pan.",
     "Then chuck in two diced red peppers, season with half a teaspoon each of salt and black pepper. Cook five more minutes till peppers soften. Done! Simple and quick."
   ],
   "notes": [
-    "You can also add: one teaspoon dried oregano, a splash balsamic vinegar, handful fresh basil chopped, grated Parmesan to taste. Your choice!",
-    "Heads up: the original recipe never actually lists the string beans themselves (no amount or when to add them)."
+    "You can also add: one teaspoon dried oregano, a splash balsamic vinegar, handful fresh basil chopped, grated Parmesan to taste. Your choice!"
   ],
   "unclear": true,
   "pdf": "pdfs/italian-string-beans.pdf",
